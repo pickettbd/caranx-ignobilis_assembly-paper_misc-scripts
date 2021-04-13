@@ -1,5 +1,5 @@
-# albula-glossodonta_assembly-paper_misc-scripts
-Misc. scripts referenced in my genome assembly paper for _Albula glossodonta_
+# Caranx-ignobilis_assembly-paper_misc-scripts
+Misc. scripts referenced in my genome assembly paper for _Caranx ignobilis_
 
 ## Usage
 `python3 generateBedForMrnaExtraction.py maker.gff assembly.fa candidate_genes.bed`
